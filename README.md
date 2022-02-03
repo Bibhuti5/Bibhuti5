@@ -61,6 +61,10 @@
                     <img src="./assets/icons/html.png" width="65px"/>
                     <br /> HTML & CSS
                 </td>
+                <td align="center" width="140" height="112.43">
+                    <img src="./assets/icons/power.png" width="65px"/>
+                    <br /> Tableau & Power BI
+                </td>
             </tr>
         </table>
     </div>
