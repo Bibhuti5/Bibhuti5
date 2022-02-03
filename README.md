@@ -43,10 +43,7 @@
                 <td align="center" width="140" height="112.43">
                     <img src="./assets/icons/scikitlearn.png" width="65px"/>
                     <br /> Scikit Learn
-                </td>
-                
-                
-                
+                </td>               
                 <td align="center" width="140" height="112.43">
                     <img src="./assets/icons/docker.png" width="65px"/>
                     <br /> Docker
