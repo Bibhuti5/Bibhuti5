@@ -52,6 +52,10 @@
                     <img src="./assets/icons/odoo.png" width="65px"/>
                     <br /> Odoo
                 </td>
+                <td align="center" width="140" height="112.43">
+                    <img src="./assets/icons/html.png" width="65px"/>
+                    <br /> HTML & CSS
+                </td>
             </tr>
         </table>
     </div>
