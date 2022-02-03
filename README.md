@@ -45,10 +45,7 @@
                     <br /> Scikit Learn
                 </td>
                 
-                <td align="center" width="140" height="112.43">
-                    <img src="./assets/icons/odoo.png" width="65px"/>
-                    <br /> Odoo
-                </td>
+                
                 
                 <td align="center" width="140" height="112.43">
                     <img src="./assets/icons/docker.png" width="65px"/>
@@ -60,7 +57,7 @@
     <br>
 
 ---
-
+## Hope you find some valuable information
 
 <!-- 💾 365 Days of Computer Vision - [🔗](https://github.com/ashishpatel26/365-Days-Computer-Vision-Learning-Linkedin-Post) -->
 
