@@ -58,12 +58,16 @@
                     <br /> Odoo
                 </td>
                 <td align="center" width="140" height="112.43">
+                    <img src="./assets/icons/sql.png" width="65px"/>
+                    <br /> MY SQL
+                </td>
+                <td align="center" width="140" height="112.43">
                     <img src="./assets/icons/html.png" width="65px"/>
                     <br /> HTML & CSS
                 </td>
                 <td align="center" width="140" height="112.43">
                     <img src="./assets/icons/power.png" width="65px"/>
-                    <br /> Tableau & Power BI
+                    <br />Power BI
                 </td>
             </tr>
         </table>
