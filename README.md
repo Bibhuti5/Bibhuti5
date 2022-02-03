@@ -1,9 +1,9 @@
-- ### Hi there, I'm Ashish Patel👋
+- ### Hi there, I'm Bibhuti Bhusan Sahoo👋
   ![](https://komarev.com/ghpvc/?username=Bibhuti5&color=green)  
   [![Website](https://img.shields.io/website?label=Bibhuti5&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://www.linkedin.com/in/bibhutibhusansahoo97/)
   [![Twitter Follow](https://img.shields.io/twitter/follow/Bibhuti52675983?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/Bibhuti52675983)
 
-  ## I'm a Author, Sr. Data Scientist, AI Researcher, Quantum Machine learning Practitioner [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bibhutibhusansahoo97/)
+  ## I'm a Software Engineer , Data Scientist & Blogger  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bibhutibhusansahoo97/)
     ![Bibhuti Bhusan Sahoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bibhuti5&show_icons=true&theme=algolia)
   ---
 
