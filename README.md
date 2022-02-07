@@ -2,6 +2,7 @@
   ![](https://komarev.com/ghpvc/?username=Bibhuti5&color=green)  
 
   [![Website](https://img.shields.io/website?label=Bibhuti5&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://www.linkedin.com/in/bibhutibhusansahoo97/)
+  
   [![Twitter Follow](https://img.shields.io/twitter/follow/Bibhuti52675983?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/Bibhuti52675983)
 
   [![Medium Follow](https://img.shields.io/twitter/follow/Bibhuti52675983?color=1DA1F2&logo=medium&style=for-the-badge)](https://medium.com/@bibhutibhusan504)
@@ -16,7 +17,7 @@
 
   - 🌱 I’m currently Learning Data Science & NLP😎.
   
-  - 👯 I’m collaborator in keras, tensorflow and looking for more collaboration.
+  - 👯 I’m working on keras, tensorflow  models and looking for  collaboration with anyone.
   
   - 🥅 2021 Goals: Explore the more and more research of Computer vision, Deep learning, NLP, Time Series Analysis etc.
 
