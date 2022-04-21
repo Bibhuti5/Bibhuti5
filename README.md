@@ -1,5 +1,5 @@
 - 
-[![ProfileBanner](img src="./assets/me.png")](https://bibhutiport.blogspot.com/)
+[![ProfileBanner]<img src="./assets/me.png" width=100%>](https://bibhutiport.blogspot.com/)
 ### Hi there, I'm Bibhuti Bhusan Sahoo👋
   ![](https://komarev.com/ghpvc/?username=Bibhuti5&color=green)  
 
