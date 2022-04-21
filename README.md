@@ -29,9 +29,9 @@
 
 [![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Bibhuti5&&theme=xcode)](https://github.com/Bibhuti5)
 
-<p  align='left'><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Bibhuti5&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Bibhuti5" /></p>
+<p  align='center'><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Bibhuti5&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Bibhuti5" /></p>
 
-<p  align='right' width="400">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Bibhuti5&show_icons=true&locale=en&theme=tokyonight" alt="Bibhuti5" /></p>
+<p  align='center'>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Bibhuti5&show_icons=true&locale=en&theme=tokyonight" alt="Bibhuti5" /></p>
 
 <p  align='center'><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Bibhuti5&&theme=tokyonight" alt="Bibhuti5" /></p>
 
