@@ -1,20 +1,16 @@
 -
 
 ### Hi there, I'm Bibhuti Bhusan Sahoo👋
-	
-<h2>  📞 CONNECT WITH ME </h2>
- <Br>
- <p align="center">
-	<a href="https://github.com/Bibhuti5"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
-	<a href="https://www.linkedin.com/in/bibhutibhusansahoo97/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-	<a href="https://www.facebook.com/bibhuti.sahoo.73307"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white" alt="Facebook"/></a>
-	<a href="https://medium.com/@bibhutibhusan504"><img src="https://img.shields.io/twitter/follow/Bibhuti52675983?color=1DA1F2&logo=medium&style=for-the-badge" alt="Instagram"/></a>
-	 <a href="https://twitter.com/Bibhuti52675983"><img src="https://img.shields.io/badge/twitter-%230A66C2.svg?style=plastic&logo=twitter&logoColor=white" alt="Twitter"/></a>
-     <a href="https://www.hongout.com/"><img src="https://img.shields.io/badge/Website-HONGOUT-yellow" alt="Website"/></a>
-</P>
 
+  ![](https://komarev.com/ghpvc/?username=Bibhuti5&color=green)  
 
+  [![Website](https://img.shields.io/website?label=Bibhuti5&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://www.linkedin.com/in/bibhutibhusansahoo97/)
+  
+  [![Twitter Follow](https://img.shields.io/twitter/follow/Bibhuti52675983?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/Bibhuti52675983)
 
+  [![Medium Follow](https://img.shields.io/twitter/follow/Bibhuti52675983?color=1DA1F2&logo=medium&style=for-the-badge)](https://medium.com/@bibhutibhusan504)
+
+  [![Website](https://img.shields.io/badge/Website-HONGOUT-yellow)](https://www.hongout.com/)
 
 ## I'm a Software Engineer , Data Scientist & Blogger  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bibhutibhusansahoo97/)
 
