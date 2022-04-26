@@ -35,7 +35,8 @@
 
 <p  align='center'><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Bibhuti5&&theme=tokyonight" alt="Bibhuti5" /></p>
 
-
+<p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
+<img src="https://github-profile-trophy.vercel.app/?username=Bibhuti5&theme=juicyfresh&no-bg=true" />
 
 
 
