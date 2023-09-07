@@ -24,7 +24,7 @@
 <a href="https://www.linkedin.com/in/bibhutibhusansahoo97/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bibhutibhusansahoo97" height="30" width="40" /></a>
 <a href="https://medium.com/@bibhutibhusan504" target="blank"><img align="center" src="https://img.shields.io/twitter/follow/Bibhuti52675983?color=1DA1F2&logo=medium&style=for-the-badge" alt="Bibhuti504" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCFCkAS4zTsyfMJKB1Ay9xBQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="BBS Vlogs" height="30" width="40" /></a>
-<a href="https://leetcode.com/bibhutibhusan504" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/LeetCode_Logo_1.png" alt="LeetCode" width="30" height="40"/> </a>
+<a href="https://leetcode.com/bibhutibhusan504" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/LeetCode_Logo_1.png" alt="LeetCode" width="40" height="30"/> </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
