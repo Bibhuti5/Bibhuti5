@@ -1,6 +1,6 @@
 [![MasterHead](https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif)](https://www.hongout.com)
 <h1 align="center">Hi 👋, I'm Bibhuti Bhusan Sahoo</h1>
-<h3 align="center">A passionate Software  Developer  and Data Scientist</h3>
+<h3 align="center">A passionate Fullstack Software Developer and Data Scientist</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **DevOps**
 
-- 💬 Ask me about **Data Science , MEARN**
+- 💬 Ask me about **Java Development and Data Science**
 
 - 📫 How to reach me **bibhutibhusan504@gmail.com**
 
@@ -37,7 +37,6 @@
 <hr>
 <p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
 <img src="https://github-profile-trophy.vercel.app/?username=Bibhuti5&theme=juicyfresh&no-bg=true" />
-
 
 
 ***Thanks for visit my profile.***
