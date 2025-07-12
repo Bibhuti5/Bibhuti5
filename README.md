@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Bibhuti5&label=Profile%20views&color=0e75b6&style=flat" alt="Bibhuti5" /> </p>
 
-- 🔭 I’m currently working on **Software Developer At Capgemini**
+- 🔭 I’m currently working on **Software Developer At Cognizant**
 
 - 🌱 I’m currently learning **DevOps**
 
